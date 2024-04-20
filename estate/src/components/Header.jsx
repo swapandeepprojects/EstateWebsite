@@ -17,7 +17,7 @@ export default function Header() {
           className="flex items-center p-3 rounded-lg bg-slate-100"
           action=""
         >
-          <input
+          <input 
             type="text"
             placeholder="Search.."
             className="w-24 bg-transparent focus:outline-none sm:w-64"
